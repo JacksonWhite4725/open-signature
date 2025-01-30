@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "e-signature",
   "private": true,
   "scripts": {
     "build": "turbo build",
