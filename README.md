@@ -1,84 +1,76 @@
-# Turborepo starter
+# 📝 OpenSign
 
-This Turborepo starter is maintained by the Turborepo core team.
+> The Future of E-Signatures is Open Source
 
-## Using this example
+[![GNU License](https://img.shields.io/badge/License-GNU%20GPL-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![Stars](https://img.shields.io/github/stars/opensignorg/opensign?style=social)](https://github.com/opensignorg/opensign/stargazers)
 
-Run the following command:
+## 🚀 Coming Soon
 
-```sh
-npx create-turbo@latest
-```
+OpenSign is set to revolutionize the e-signature space by making enterprise-grade document signing accessible to everyone. No more vendor lock-in, no more excessive fees, and no more closed systems.
 
-## What's inside?
+### Why OpenSign?
 
-This Turborepo includes the following packages/apps:
+- **🌐 100% Open Source**: Built in the open, for the community
+- **💰 Actually Free**: Self-host for free or use our cloud for just 2.5% per transaction
+- **🔒 Enterprise Security**: Bank-grade encryption, audit logs, and compliance features
+- **🛠 Developer First**: Modern tech stack with NextJS, TypeScript, and Docker
+- **💪 Community Driven**: Built by developers, for developers
 
-### Apps and Packages
+## The Vision
 
-- `docs`: a [Next.js](https://nextjs.org/) app
-- `web`: another [Next.js](https://nextjs.org/) app
-- `@repo/ui`: a stub React component library shared by both `web` and `docs` applications
-- `@repo/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
-- `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
+We believe document signing should be:
+- Open source and transparent
+- Affordable and accessible
+- Secure and compliant
+- Easy to customize and integrate
 
-Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
+## Features Coming Soon
 
-### Utilities
+- ✨ Beautiful, modern UI... kinda
+- 🔐 Enterprise-grade security
+- 📱 Mobile-responsive design
+- 🔌 Webhook integrations
+- 🎨 White-label ready
+- 📖 Comprehensive API
+- 🐳 Docker deployment
+- 📈 Version control
 
-This Turborepo has some additional tools already setup for you:
+## Tech Stack
 
-- [TypeScript](https://www.typescriptlang.org/) for static type checking
-- [ESLint](https://eslint.org/) for code linting
-- [Prettier](https://prettier.io) for code formatting
+- **Frontend**: Next.js, TypeScript, Tailwind CSS
+- **Backend**: Node.js microservices
+- **Database**: PostgreSQL
+- **Caching**: Redis
+- **Storage**: S3-compatible
+- **Deployment**: Docker
 
-### Build
+## Stay Updated
 
-To build all apps and packages, run the following command:
+- 🌟 Star this repo to show your support
+- 👀 Watch this repo to get notified when we launch
+- 🐦 Follow me on X [@jack_white_ceo](https://x.com/jack_white_ceo)
 
-```
-cd my-turborepo
-pnpm build
-```
+## Contributing
 
-### Develop
+OpenSign is currently in active development. We're working hard to provide:
+- Comprehensive documentation
+- Contributor guidelines
+- Development setup guides
+- Architecture documentation
 
-To develop all apps and packages, run the following command:
+Watch this space for updates!
 
-```
-cd my-turborepo
-pnpm dev
-```
+## License
 
-### Remote Caching
+OpenSign is GNU GPL licensed. See [LICENSE](LICENSE) for details.
 
-> [!TIP]
-> Vercel Remote Cache is free for all plans. Get started today at [vercel.com](https://vercel.com/signup?/signup?utm_source=remote-cache-sdk&utm_campaign=free_remote_cache).
+---
 
-Turborepo can use a technique known as [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching) to share cache artifacts across machines, enabling you to share build caches with your team and CI/CD pipelines.
+<div align="center">
 
-By default, Turborepo will cache locally. To enable Remote Caching you will need an account with Vercel. If you don't have an account you can [create one](https://vercel.com/signup?utm_source=turborepo-examples), then enter the following commands:
+**OpenSign is coming soon. Star the repo to stay updated!**
 
-```
-cd my-turborepo
-npx turbo login
-```
+[Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ) · [Twitter](https://x.com/jack_white_ceo)
 
-This will authenticate the Turborepo CLI with your [Vercel account](https://vercel.com/docs/concepts/personal-accounts/overview).
-
-Next, you can link your Turborepo to your Remote Cache by running the following command from the root of your Turborepo:
-
-```
-npx turbo link
-```
-
-## Useful Links
-
-Learn more about the power of Turborepo:
-
-- [Tasks](https://turbo.build/repo/docs/core-concepts/monorepos/running-tasks)
-- [Caching](https://turbo.build/repo/docs/core-concepts/caching)
-- [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching)
-- [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
-- [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
-- [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+</div>
