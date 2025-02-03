@@ -3,7 +3,7 @@
 > The Future of E-Signatures is Open Source
 
 [![GNU License](https://img.shields.io/badge/License-GNU%20GPL-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![Stars](https://img.shields.io/github/stars/opensignorg/opensign?style=social)](https://github.com/opensignorg/opensign/stargazers)
+[![Stars](https://img.shields.io/github/stars/JacksonWhite4725/open-signature?style=social)](https://github.com/JacksonWhite4725/open-signature)
 
 ## 🚀 Coming Soon
 
