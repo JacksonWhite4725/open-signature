@@ -1,5 +1,6 @@
 import { MarketingHeader } from '@/components/marketing/Header';
 import { MarketingFooter } from '@/components/marketing/Footer';
+import '../globals.css'
 
 export default function MarketingLayout({
   children,
